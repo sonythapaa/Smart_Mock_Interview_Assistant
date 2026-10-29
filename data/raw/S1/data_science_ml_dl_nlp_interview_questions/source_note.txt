@@ -1,0 +1,31 @@
+Source ID: S1
+Source Name: Data_Science_ML_DL_NLP_Interview_Qus
+Creator/Owner: MukundAabha / GitHub
+Source Type: GitHub repository
+URL: https://github.com/MukundAabha/Data_Science_ML_DL_NLP_Interview_Qus/tree/main
+Access Date: 22 May 2026
+Licence/Terms: MIT licence shown on GitHub.
+Raw Folder Location: data/raw/S1/data_science_ml_dl_nlp_interview_questions/
+
+Project Use:
+This source is used for Data Science, Machine Learning, Deep Learning, NLP, statistics and related technical interview questions/notes. It supports the mock interview assistant by providing topic coverage for Data Analyst, Data Scientist, Machine Learning Engineer and NLP Engineer interview preparation.
+
+Relevant Raw Folders/Files:
+- Data_Science_CheatSheet/
+- interview-question-data-science--30days/
+- Course-notes-descriptive-statistics.pdf
+- Course-notes-hypothesis-testing.pdf
+- Course-notes-inferential-statistics.pdf
+- Data-Analysis_Question.docx
+- Deep Learning.docx
+- ML.docx
+- NLP.docx
+- Predictive-Modeling.docx
+- Quiz_questions_statistics_for_data_science.pdf
+- Short_Notes.docx
+- list_of_questions_mathematics_ML_DL.docx
+- README.md
+- LICENSE
+
+Attribution Statement:
+Content from this source is credited to MukundAabha / GitHub. The project team will retain the original licence file and source link, and will use the material according to the MIT licence requirements.

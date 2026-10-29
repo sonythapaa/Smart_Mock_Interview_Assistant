@@ -1,0 +1,22 @@
+Source ID: S3
+Source Name: SQL Interview Preparation
+Creator/Owner: rohanmistry231 / GitHub
+Source Type: GitHub repository
+URL: https://github.com/rohanmistry231/SQL-Interview-Preparation
+Access Date: 22 May 2026
+Licence/Terms: MIT licence shown on GitHub. Keep the original LICENSE file with the raw copy of this repository.
+Raw Folder Location: data/raw/S3/sql_interview_preparation_questions/
+
+Project Use:
+This source is used for SQL interview questions, SQL fundamentals, query practice and real-world SQL case study material. It supports the mock interview assistant by providing SQL-focused technical content for Data Analyst and Data Scientist interview preparation.
+
+Relevant Raw Folders/Files:
+- Giant Projects/
+- SQL Fundamentals/
+- SQL Interview Questions with Ans/
+- SQL Real World Case Studies/
+- README.md
+- LICENSE
+
+Attribution Statement:
+Content from this source is credited to rohanmistry231 / GitHub. The project team will retain the original licence file and source link, and will use the material according to the MIT licence requirements.

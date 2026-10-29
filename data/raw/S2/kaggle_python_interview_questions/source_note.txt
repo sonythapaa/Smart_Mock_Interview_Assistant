@@ -1,0 +1,14 @@
+Source ID: S2
+Source Name: Python Interview Questions 2025
+Creator/Owner: yamankhetan / Kaggle
+Source Type: Kaggle dataset
+URL: https://www.kaggle.com/datasets/yamankhetan/python-interview-questions-2025
+Access Date: 22 May 2026
+Licence/Terms: Accepted by the team after licence/terms check. Record the exact Kaggle licence shown on the dataset page in the source log.
+Raw Folder Location: data/raw/S2/kaggle_python_interview_questions/
+
+Project Use:
+This source is used for Python-focused technical interview questions and possible reference answers for the Smart Mock Interview Assistant project. It supports question bank creation, reference answer comparison, topic tagging and technical correctness scoring.
+
+Attribution Statement:
+Content from this source is credited to yamankhetan / Kaggle. The project team will not present the dataset as original work and will use it only according to the recorded Kaggle licence/terms.

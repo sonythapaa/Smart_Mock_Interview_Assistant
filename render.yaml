@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: smart-mock-interview-assistant
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn main.app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: FLASK_DEBUG
+        value: "0"
